@@ -1,4 +1,4 @@
-# Ignore all executables in the C folder
-DivideandConquer
+# Ignore all executables
+*
 !*.c
 !*.h
